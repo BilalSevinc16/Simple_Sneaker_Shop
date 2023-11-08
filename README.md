@@ -1,16 +1,13 @@
-# simple_sneaker_shop
+# Simple Sneaker Shop
 
-A new Flutter project.
+Simple Sneaker Shop
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Simple_Sneaker_Shop/assets/146417248/c90c3eae-0929-4b65-bd61-6daf7a39d081)
 
-This project is a starting point for a Flutter application.
+![2](https://github.com/BilalSevinc16/Simple_Sneaker_Shop/assets/146417248/c456f00c-c400-40da-88fe-bf28db8d897e)
 
-A few resources to get you started if this is your first Flutter project:
+![3](https://github.com/BilalSevinc16/Simple_Sneaker_Shop/assets/146417248/fd10288b-7c68-4eed-80f7-9c95a3c21ae1)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![5](https://github.com/BilalSevinc16/Simple_Sneaker_Shop/assets/146417248/8aa8cd7e-0def-4a7f-9290-b01a5cc6fac7)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![4](https://github.com/BilalSevinc16/Simple_Sneaker_Shop/assets/146417248/511d6c9c-0af9-46e5-b47e-283063412bf0)
